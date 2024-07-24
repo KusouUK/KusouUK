@@ -10,8 +10,7 @@
 ### Technologies
 
 <div style="display: inline-block"><br>
-  <p>Technologies</p>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-thebadge&logo=javascript&logoColor=F7DF1E">
+  <img alt="JavaScript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-thebadge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>

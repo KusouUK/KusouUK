@@ -3,7 +3,7 @@
 <div style="display: inline-block">
   <a href="https://github.com/KusouUK">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KUSOUUK&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KusouUK&theme=radical"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KusouUK&theme=radical"/>
 </div>
 </br>
 

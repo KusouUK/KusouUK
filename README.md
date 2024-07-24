@@ -4,5 +4,5 @@ Hi, my name is João Vitor and I'm 18 years old. I'm currently in the process of
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KusouUK&theme=radical)](https://github.com/KusouUK/github-readme-stats)
 
 <div><br>
-  <p style="font-size: 24px;">Technologies</p>
+  <p style="font-size: 58px;">Technologies</p>
 </div>
